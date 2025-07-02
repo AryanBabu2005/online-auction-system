@@ -1,0 +1,4 @@
+aryan,aryan2005,admin,babuaryan2005@gmail.com
+babu,babu2303,admin,babuaryan2005@cic.du.ac.in
+amrit,amrit1234,bidder,mathematicaamrit@gmail.com
+divyansh,div123,bidder,divyanshsingh@gmail.com
